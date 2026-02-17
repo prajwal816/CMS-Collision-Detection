@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "n_rows": 1378545,
+  "n_unique_events": 1171442,
+  "features": [
+    "m_mumu",
+    "pt_mumu",
+    "eta_mumu",
+    "dR_mumu",
+    "PV_npvs",
+    "MET_pt"
+  ],
+  "labels_trained": [
+    "HLT_Mu17_Mu8",
+    "HLT_Mu17_Mu8_DZ",
+    "HLT_Mu17_TrkIsoVVL_Mu8_TrkIsoVVL_DZ"
+  ],
+  "top_labels_by_event_ap": [
+    "HLT_Mu17_TrkIsoVVL_Mu8_TrkIsoVVL_DZ",
+    "HLT_Mu17_Mu8",
+    "HLT_Mu17_Mu8_DZ"
+  ]
+}
